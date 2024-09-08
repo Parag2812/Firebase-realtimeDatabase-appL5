@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897748316485",
+    "project_id": "myappl5",
+    "storage_bucket": "myappl5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897748316485:android:d838b3ce3e75b3f9408e2c",
+        "android_client_info": {
+          "package_name": "com.example.myappl5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjkeZSChtyzwEoyCdKnN7uvSgTYTQLI2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
